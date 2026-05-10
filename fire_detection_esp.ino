@@ -7,8 +7,8 @@
 
 #define SERIAL_PRINT_EVERY_BOX 0
 
-const char* WIFI_SSID = "yunus";
-const char* WIFI_PASSWORD = "sifresifre";
+const char* WIFI_SSID = "Alisa";
+const char* WIFI_PASSWORD = "11111111";
 
 WebServer httpServer(80);
 WebSocketsServer webSocket(81);
