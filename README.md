@@ -9,31 +9,13 @@ The most important thing about this repo is that it captures the only deployment
 ## Built Drone
 
 Photo of the final quadcopter prototype used in the capstone project.
-
-_Add your drone photo here. Recommended file path: `assets/drone/drone-photo.jpg`._
-
-<!-- Replace the line above with:
-![Built drone](assets/drone/drone-photo.jpg)
--->
+![Built drone](assets/drone/drone-photo.HEIC)
 
 ## App Demo
 
-Short demo of the iOS application showing detection state transitions such as `CLEAR -> FIRE -> FIRE+SMOKE -> SMOKE -> CLEAR`.
+Short demo of the iOS application showing detection state transitions such as `CLEAR -> FIRE -> CLEAR -> SMOKE -> CLEAR`.
 
-_Add your app demo here. Recommended file paths: `assets/demo/app-state-demo.gif` or `assets/demo/app-state-demo.mp4`._
-
-Recommended display options:
-
-- If you have a short GIF, use it directly in the README.
-- If you have an `.mp4`, use a preview image that links to the full video.
-
-<!-- Option A: GIF embedded directly in README
 ![App state transition demo](assets/demo/app-state-demo.gif)
--->
-
-<!-- Option B: preview image linked to mp4
-[![Watch the app state transition demo](assets/demo/app-state-preview.png)](assets/demo/app-state-demo.mp4)
--->
 
 ## What This Repository Covers
 
