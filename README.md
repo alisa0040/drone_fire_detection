@@ -123,8 +123,6 @@ That choice reflects the reality of embedded deployment: a model that is slightl
 
 ### Test Metrics From the Checked-In Notebook
 
-The current notebook run reports the following test results for the `192x192` model:
-
 - Precision: `0.744`
 - Recall: `0.662`
 - mAP@50: `0.702`
@@ -289,10 +287,3 @@ For our setup:
 - an iPhone hotspot was used successfully during tests,
 - the ESP32 firmware includes a basic reconnect watchdog,
 - the device can be accessed from a browser at `http://<esp-ip>/`.
-
-Before uploading the sketch, update:
-
-- `WIFI_SSID`
-- `WIFI_PASSWORD`
-
-inside `fire_detection_esp.ino`.
